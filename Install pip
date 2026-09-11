@@ -1,0 +1,7 @@
+open terminal 
+prompt terminal 
+copy paste 
+command
+first command py -3.12 -m pip install kivy
+second command py -3.12 -m pip install gspread
+third command py -3.12 -m pip install google-auth
